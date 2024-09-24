@@ -1,6 +1,5 @@
 # Hi, I'm André! *(but you can call me zezé)*
-[My linkedin](https://www.linkedin.com/in/andré-macêdo-40498a317/)<br>
-👨🏻‍🎓  Studying Computer Science at the Federal Institute of Santa Catarina<br>👾 Making games at GameMaker Studio as a hobby<br>💭 Currently focusing on college, but looking for an internship in the field
+👔 [My Linkedin](https://www.linkedin.com/in/andré-macêdo-40498a317/)<br>👨🏻‍🎓  Studying Computer Science at the Federal Institute of Santa Catarina<br>👾 Making games at GameMaker Studio as a hobby<br>💭 Currently focusing on college, but looking for an internship in the field
 
 
 ## 💻 Tech Stack
