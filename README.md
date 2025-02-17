@@ -1,4 +1,4 @@
-# Oi, eu sou o André! *(mas pode me chamar de zezé)*
+# Oi, eu sou o André!
 👔 [Meu Linkedin](https://www.linkedin.com/in/andré-macêdo-40498a317/)<br>👨🏻‍🎓 Estudando Ciência da Computação no Instituto Federal de Santa Catarina<br>👾 Fazendo jogos no GameMaker Studio como hobby<br>💭 Atualmente focado na faculdade, mas em busca de um estágio na área
 
 
