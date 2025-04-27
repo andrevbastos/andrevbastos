@@ -1,5 +1,5 @@
 <h1 align="center">&lt;Fullstack&gt;</h1>
-👔 [Meu Linkedin](https://www.linkedin.com/in/andremacedo8/)<br>👨🏻‍🎓 Estudando Ciência da Computação no Instituto Federal de Santa Catarina<br>💭 Atualmente focado na faculdade, mas em busca de um estágio na área
+👔 <a href="https://www.linkedin.com/in/andremacedo8/"> Meu Linkedin</a> <br>👨🏻‍🎓 Estudando Ciência da Computação no Instituto Federal de Santa Catarina<br>💭 Atualmente focado na faculdade, mas em busca de um estágio na área
 
 
 ## 💻 Tech Stack
